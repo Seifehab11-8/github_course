@@ -1,5 +1,6 @@
 # github_course
 .
-####lesson one
-edit the readme file 
-and learning marked directory
+## lesson one  
+
+edit the readme file.  
+and learning markdown
